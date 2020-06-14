@@ -1,0 +1,48 @@
+*MALE*
+ruffian
+priest
+fighter
+wizard
+elf
+gladiator
+attorney
+manbearpig
+anarcho-capitalist
+anarcho-communist
+ruffian
+gangster
+hooligan
+thug
+wight
+*FEMALE*
+succubus
+feminist
+gamer girl
+loli
+yandere catgirl
+catgirl
+moth girl
+*NEUTRAL*
+sea anenome
+beholder
+chimera
+slime
+ooze
+dire frog
+ogre
+troll
+sea cucumber
+anenome
+starfish
+carp
+minotaur
+borogrove
+mome rath
+moth
+spider
+snake
+ghost
+wraith
+skellington
+zombie
+ghoul

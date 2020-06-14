@@ -1,0 +1,8 @@
+*COMMON*
+@pro looks 50%[QUALIFIERS] %[MONSTER_QUALITIES].
+a [QUALIFIERS] <terrifying|frightening|strong|dangerous|violent> <opponent|foe>.
+@pro's wearing a [COMMON_MATERIALS] [MONSTER_ACCESSORIES].
+@pro's wearing [COMMON_MATERIALS] [MONSTER_ACCESSORIES_PLURAL].
+@pro's wearing [COMMON_MATERIALS] [MONSTER_ACCESSORIES_PLURAL] and a [ITEM_MATERIALS] [MONSTER_ACCESSORIES]<.|!>
+*RARE*
+@pro <shouts|screams> <menacingly|threateningly|loudly> at you.

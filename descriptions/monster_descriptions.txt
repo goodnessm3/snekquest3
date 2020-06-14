@@ -1,0 +1,8 @@
+*COMMON*
+@pro looks 50%[QUALIFIERS] %[MONSTER_QUALITIES].
+<@pro has|Beware @pos> <sharp|razor-sharp|dangerous> <claws|teeth><!|.>
+a [QUALIFIERS] <terrifying|frightening|strong|dangerous|violent> <beast|monster|foe>.
+*RARE*
+@pro <growls|snarls|barks|shouts|screams> <menacingly|threateningly|loudly> at you.
+@pos eyes glow <red|green|yellow|blue>.
+From @pos mouth billows <noxious|orange|black|acrid> <vapours|steam|smoke|gas>.

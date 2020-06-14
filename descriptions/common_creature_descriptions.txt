@@ -1,0 +1,4 @@
+*COMMON*
+@pro fills you with <a sense of <dread|despair>|<fear|loathing|hatred|apprehension>>.
+*RARE*
+@pos eyes seem to glow with <hatred|rage|bloodlust>.

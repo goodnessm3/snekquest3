@@ -1,0 +1,13 @@
+*COMMON*
+it is <light and airy|claustrophobic|dank and humid|[QUALIFIERS] foreboding>.
+the <walls are|floor is> made from <[MATERIALS]|stone><. |, and in <poor|good|delapidated> condition.>
+you feel a vague sense of <unease|unrest>.
+the <odour|smell> of <chlorine|wood smoke|blood|rotting flesh> <wafts through|hangs in> the air.
+the room is lit by <candles|a chandelier|a single oil lamp|flickering torches>.
+the air is <icy cold|stiflingly hot|palpably dry|musty>.
+*RARE*
+dust motes float through the air.
+you hear a terrible howling noise, then silence.
+the floor is slick with <slime|moss|mould|ooze>.
+the floor is covered with <sawdust|trash|fragments of torn-up papers>.
+you're sure you can hear voices whispering nearby.

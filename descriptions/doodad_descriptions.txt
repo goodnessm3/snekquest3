@@ -1,0 +1,14 @@
+*COMMON*
+<it is|It's>50% [QUALIFIERS]% [ITEM_DESCRIPTORS].
+<it is|It's> decorated with <spikes|inlays|studs> of [ITEM_MATERIALS].
+<it <looks|is> fairly normal|It looks [QUALIFIERS] unusual|It looks really strange>.
+it's [QUALIFIERS] <fashionable|ugly|pretty|solid>.
+it <menaces|glitters|is festooned> with <spikes|studs|decorations> of [ITEM_MATERIALS].
+it's made primarily from [ITEM_MATERIALS]<.| and [ITEM_MATERIALS].>
+*RARE*
+you wish you had one of these!
+you feel like you've seen this somewhere before.
+who would make something like this?
+looks like it was crafted by <elves|orcs|dwarves|demons|a blind idiot>.
+you have no idea how this got here.
+why is this here?

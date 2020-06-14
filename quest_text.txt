@@ -1,0 +1,20 @@
+QUALIFIERS:quite|rather|very|extremely|very
+ROOM_DESCRIPTORS:large|narrow|small|damp|dimly-lit|low-ceilinged|cavernous|wide|long
+ITEM_DESCRIPTORS:dirty|rusty|clean|ornate|aesthetic
+MATERIALS:stone|wood|titanium|iron|rough-hewn rock|bricks|concrete|red brick|mossy stones
+ITEM_MATERIALS:agate|jade|steel|bronze|brass|copper|emerald|sapphire|tin|aluminium|polycarbonate
+COMMON_MATERIALS:steel|bronze|brass|copper|leather|cloth|iron|plastic|wooden|velvet
+DOODADS:book case|statue|painting|drawing|tapestry
+CONTAINERS:barrel|crate|cardboard box|sack
+CONTAINERS_FANCY:cabinet|cupboard|locker|chest|box
+MONSTER_ACCESSORIES:helmet|breastplate|cuirass|suit of armour|suit
+MONSTER_ACCESSORIES_PLURAL:gloves|gauntlets|armour
+MONSTER_QUALITIES:ferocious|fierce|fearsome|ghastly|intimidating|voluptuous|magical|large|big|huge|small|old|green|red
+RANDOM_CORPSE_TAKE:Why?|You can't take this. Why would you want to take this?|That doesn't seem like a good idea.
+MOXIE:cunning|artful|mysterious|surprising|sneaky|unexpected|invisible
+STRENGTH:brutal|unstoppable|crushing|impactful|hammer|mighty|stalwart|powerful
+SPEED:quick|rapid|dexterous|nimble|acrobatic|fancy
+ATTACK_NAMES:strike|attack|thrust|stab|crush|impact|rebuke|riposte|throw|block|punch
+DEFENSE_NAMES:recuperation|regeneration|pause|repositioning|retreat|consolidation
+ABILITY_STRONG:greater|improved|mega|shaolin|hyper
+ABILITY_ACCURATE:precision|accurate|targeted|honed|lovely|beautiful|augmented|fabulous|cute
